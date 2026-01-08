@@ -1,13 +1,21 @@
-# 📐 Basic Math with Python & SymPy
+# 📐 Math for Data Science
 
-A comprehensive Jupyter Notebook covering fundamental mathematical concepts with both numerical (Python) and symbolic (SymPy) computation approaches.
+A comprehensive collection of Jupyter Notebooks covering fundamental mathematical concepts for data science with both numerical (Python) and symbolic (SymPy) computation approaches.
 
-> 📖 *This notebook is continuously updated with new topics.*
+> 📖 *This repository is continuously updated with new topics.*
+
+## 📚 Topics Covered
+
+### Calculus
+| Notebook | Description |
+|----------|-------------|
+| `Basic_Math.ipynb` | Fundamental math operations with SymPy |
+| `logrithms_eulerNumber.ipynb` | Logarithms, Natural Logarithms & Euler's Number |
 
 ## 🛠️ Requirements
 
 ```bash
-pip install sympy matplotlib
+pip install sympy matplotlib numpy
 ```
 
 ## 📦 Dependencies
@@ -15,20 +23,24 @@ pip install sympy matplotlib
 | Package | Purpose |
 |---------|---------|
 | `sympy` | Symbolic mathematics |
-| `matplotlib` | Plotting (used by SymPy's plot function) |
+| `numpy` | Numerical computations |
+| `matplotlib` | Plotting and visualizations |
 
 ## 🚀 Getting Started
 
-1. Open `Basic_Math.ipynb` in Jupyter Notebook or VS Code
-2. Run all cells sequentially
-3. Experiment with the symbolic expressions!
+1. Clone the repository
+2. Open any notebook in Jupyter Notebook or VS Code
+3. Run all cells sequentially
+4. Experiment with the examples!
 
-##  Project Structure
+## 📂 Project Structure
 
 ```
-Calculus/
-├── Basic_Math.ipynb    # Main notebook with examples
-└── README.md           # This file
+MathforDS/
+├── README.md
+└── Calculus/
+    ├── Basic_Math.ipynb              # Basic math with SymPy
+    └── logrithms_eulerNumber.ipynb   # Logs, ln, and Euler's number (e)
 ```
 
 ## 📝 License
