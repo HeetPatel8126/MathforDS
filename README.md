@@ -35,6 +35,16 @@ A comprehensive collection of Jupyter Notebooks covering fundamental mathematica
 | `05_hypothesis_testing_pvalues.ipynb`   | Hypothesis testing, p-values, t-tests          |
 | `06_t_distribution_small_samples.ipynb` | T-distribution, small samples, effect size     |
 
+### Linear Algebra
+
+| Notebook                                | Description                                                      |
+| --------------------------------------- | ---------------------------------------------------------------- |
+| `01_vectors.ipynb`                      | Vectors, operations, dot/cross product, span, linear independence |
+| `02_linear_transformations.ipynb`       | Rotation, scaling, shearing, composition, inverse transforms      |
+| `03_matrices_determinants.ipynb`        | Matrix operations, determinants, inverse, rank                    |
+| `04_systems_of_equations.ipynb`         | Solving systems, least squares, linear regression connection      |
+| `05_eigenvalues_eigenvectors.ipynb`     | Eigendecomposition, characteristic equation, PCA                  |
+
 ## 🛠️ Requirements
 
 ```bash
@@ -74,13 +84,19 @@ MathforDS/
 │   ├── 03_conditional_probability_bayes.ipynb
 │   ├── 04_binomial_distribution.ipynb
 │   └── 05_beta_distribution.ipynb
-└── Statistics/
-    ├── 01_intro_and_sampling.ipynb
-    ├── 02_descriptive_statistics.ipynb
-    ├── 03_normal_distribution_zscores.ipynb
-    ├── 04_clt_confidence_intervals.ipynb
-    ├── 05_hypothesis_testing_pvalues.ipynb
-    └── 06_t_distribution_small_samples.ipynb
+├── Statistics/
+│   ├── 01_intro_and_sampling.ipynb
+│   ├── 02_descriptive_statistics.ipynb
+│   ├── 03_normal_distribution_zscores.ipynb
+│   ├── 04_clt_confidence_intervals.ipynb
+│   ├── 05_hypothesis_testing_pvalues.ipynb
+│   └── 06_t_distribution_small_samples.ipynb
+└── Linear_Algebra/
+    ├── 01_vectors.ipynb
+    ├── 02_linear_transformations.ipynb
+    ├── 03_matrices_determinants.ipynb
+    ├── 04_systems_of_equations.ipynb
+    └── 05_eigenvalues_eigenvectors.ipynb
 ```
 
 ## 📝 License
