@@ -45,6 +45,15 @@ A comprehensive collection of Jupyter Notebooks covering fundamental mathematica
 | `04_systems_of_equations.ipynb`         | Solving systems, least squares, linear regression connection      |
 | `05_eigenvalues_eigenvectors.ipynb`     | Eigendecomposition, characteristic equation, PCA                  |
 
+### Linear Regression
+
+| Notebook                                           | Description                                                        |
+| -------------------------------------------------- | ------------------------------------------------------------------ |
+| `01_basic_linear_regression.ipynb`                 | Intro to linear regression, residuals, and sum of squares          |
+| `02_finding_best_fit_line.ipynb`                   | Closed form equation, inverse matrices, gradient descent           |
+| `03_correlation_and_evaluation.ipynb`              | Pearson correlation, r-squared, p-values, prediction intervals     |
+| `04_multiple_linear_regression.ipynb`              | Multivariable linear regression                                    |
+
 ## 🛠️ Requirements
 
 ```bash
@@ -97,6 +106,11 @@ MathforDS/
     ├── 03_matrices_determinants.ipynb
     ├── 04_systems_of_equations.ipynb
     └── 05_eigenvalues_eigenvectors.ipynb
+└── Linear_Regression/
+    ├── 01_basic_linear_regression.ipynb
+    ├── 02_finding_best_fit_line.ipynb
+    ├── 03_correlation_and_evaluation.ipynb
+    └── 04_multiple_linear_regression.ipynb
 ```
 
 ## 📝 License
