@@ -54,6 +54,16 @@ A comprehensive collection of Jupyter Notebooks covering fundamental mathematica
 | `03_correlation_and_evaluation.ipynb`              | Pearson correlation, r-squared, p-values, prediction intervals     |
 | `04_multiple_linear_regression.ipynb`              | Multivariable linear regression                                    |
 
+### Logistic Regression
+
+| Notebook                                              | Description                                                        |
+| ----------------------------------------------------- | ------------------------------------------------------------------ |
+| `01_understanding_logistic_regression.ipynb`          | Intro, logistic function, fitting the logistic curve               |
+| `02_multivariable_logistic_regression.ipynb`          | Multivariable logistic regression, understanding log-odds          |
+| `03_r_squared_and_p_values.ipynb`                     | R-squared and p-values for logistic regression                     |
+| `04_train_test_splits_and_confusion_matrices.ipynb`   | Train/test splits, confusion matrices                              |
+| `05_roc_auc_and_class_imbalance.ipynb`                | ROC/AUC curve and class imbalance strategies                       |
+
 ## 🛠️ Requirements
 
 ```bash
@@ -111,6 +121,12 @@ MathforDS/
     ├── 02_finding_best_fit_line.ipynb
     ├── 03_correlation_and_evaluation.ipynb
     └── 04_multiple_linear_regression.ipynb
+└── Logistic_Regression/
+    ├── 01_understanding_logistic_regression.ipynb
+    ├── 02_multivariable_logistic_regression.ipynb
+    ├── 03_r_squared_and_p_values.ipynb
+    ├── 04_train_test_splits_and_confusion_matrices.ipynb
+    └── 05_roc_auc_and_class_imbalance.ipynb
 ```
 
 ## 📝 License
